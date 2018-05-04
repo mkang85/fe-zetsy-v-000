@@ -60,11 +60,6 @@ h2 {
     font-weight: bold;
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-}
 
 
 #press img {
