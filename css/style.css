@@ -60,6 +60,12 @@ h2 {
     font-weight: bold;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 
 #press img {
     border: 5px #ccc solid;
