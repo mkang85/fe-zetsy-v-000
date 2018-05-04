@@ -69,3 +69,7 @@ h2 {
     color: #1783bb;
     text-decoration: none;
 }
+
+.small {
+    font-size: 0.8em;
+}
