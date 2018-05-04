@@ -60,7 +60,9 @@ h2 {
     font-weight: bold;
 }
 
-
+.box:hover {
+   border-color: purple;
+}
 
 #press img {
     border: 5px #ccc solid;
