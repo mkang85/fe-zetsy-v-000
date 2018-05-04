@@ -66,12 +66,6 @@ h2 {
     padding: 1px;
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-}
-
 #featured img {
     border: 5px rgb(152,173,166) solid;
 }
